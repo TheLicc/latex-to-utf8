@@ -200,6 +200,10 @@ SetCapsLockState AlwaysOff
 	;various
 	:*?C:\langle::〈
 	:*?C:\rangle::〉
+	:*?C:\hbar::ℏ
+	:*?C:\perp::⟂
+	:*?C:\triangle::△
+	:*?C:\ggg::⋙
 #If
 
 
