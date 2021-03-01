@@ -196,6 +196,10 @@ SetCapsLockState AlwaysOff
 	:*?C:\psi::ψ
 	:*?C:\Omega::Ω
 	:*?C:\omega::ω
+	
+	;various
+	:*?C:\langle::〈
+	:*?C:\rangle::〉
 #If
 
 
