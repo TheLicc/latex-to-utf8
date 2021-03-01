@@ -1,3 +1,4 @@
+OUTDATED THIS VERSION IS WIP
 A latex-to-utf8 autohotkey script.
 The default trigger is the (in any case useless) capslock key.
 For example, pressing (meant like this: first press capslock then type out "\\-l-a-m-b-d-a")
